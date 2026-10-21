@@ -37,4 +37,5 @@ Your reflection should be approximately 150–200 words and address the followin
 # Unit 1 Discussion
 
 ## Implementation Overview
-I built an Item parent class and a Phone child class. The parent class set up basic details like name and price, while the child class added specific details like a brand and a list of apps. I showed how namespaces work by adding a color only to one phone object and printing the internal dictionaries. I used the copy tools to show that normal copies share internal lists, while deep copies create entirely new lists.
+
+I built an Item parent class and a Phone child class. The parent class set up basic details like name and price, while the child class added specific details like a brand and a list of apps.. I showed how namespaces work by adding a color only to one phone object and printing the internal dictionaries. I used the copy tools to show that normal copies share internal lists, while deep copies create entirely new lists.
